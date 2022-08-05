@@ -19,7 +19,7 @@ I'm a ~ 23 years old Front End Developer from the Morocco. I'm interested in ful
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vuer-DD0031?style=for-the-badge&logo=Vuer&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue-DD0031?style=for-the-badge&logo=Vue&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
