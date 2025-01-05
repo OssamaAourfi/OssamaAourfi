@@ -1,6 +1,6 @@
 
 # Hey, I'm Aourfi Ossama ✌️
-I'm a ~ 23 years old Front End Developer from the Morocco. I'm interested in full stack web development including large scale frontend applications and performant serverside code
+I'm a ~ 26 years old Front End Developer from the Morocco. I'm interested in full stack web development including large scale frontend applications and performant serverside code
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AourfiOssama)
 [![OssamaAourfi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ossama-aourfi-9242b1206/)
